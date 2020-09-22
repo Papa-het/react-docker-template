@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  react-docker-template:
+    container_name: react-docker-template
+    ports:
+      - "3000:80"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+      - /app/node_modules
+      # build, .next, dist
+      - /app/build
