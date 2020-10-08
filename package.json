@@ -1,0 +1,20 @@
+{
+  "name": "react-docker",
+  "version": "1.0.0",
+  "description": "for dockerize react&next apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Papa-het/react-docker-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Papa-het/react-docker-template/issues"
+  },
+  "homepage": "https://github.com/Papa-het/react-docker-template#readme"
+}
