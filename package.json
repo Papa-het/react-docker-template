@@ -12,6 +12,10 @@
   },
   "keywords": [],
   "author": "",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Papa-het/react-docker-template/issues"
